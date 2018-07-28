@@ -4,6 +4,4 @@ A salesperson is to visit a given set of cities, each located at different place
 
 Run TSP.java
 
-Team# 335
-Namratha Ramohalli Nagendra - 001820114
-Vishnu Prasad Maruthi - 001200200
+
